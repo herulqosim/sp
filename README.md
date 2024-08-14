@@ -1,4 +1,4 @@
-# https://github.com/herulqosim/sp
+# sp
 herul qosim
 
 ![Cuplikan layar 2024-08-14 222248](https://github.com/user-attachments/assets/95654a85-ddb7-444c-ac4c-0704ae08bf09)
